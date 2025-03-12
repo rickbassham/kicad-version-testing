@@ -4,12 +4,11 @@ version = "0.1.0"
 description = ""
 authors = ["Rick Bassham <brodrick.bassham@gmail.com>"]
 readme = "README.md"
-packages = [{ include = "version_testing" }]
+packages = []
 
 [tool.poetry.dependencies]
-python = "==3.9.21"
+python = "^3.9"
 kicad-python = "^0.2.0"
-
 
 [build-system]
 requires = ["poetry-core"]

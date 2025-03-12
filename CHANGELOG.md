@@ -1,3 +1,9 @@
+## v1.1.3 (2025-03-12)
+
+### Fix
+
+- **pyproject.toml**: update python version and packages
+
 ## v1.1.2 (2025-03-12)
 
 ### Fix

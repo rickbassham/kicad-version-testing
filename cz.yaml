@@ -5,7 +5,7 @@ commitizen:
   - python update-version.py
   tag_format: v$version
   update_changelog_on_bump: true
-  version: 1.1.1
+  version: 1.1.2
   version_files:
   - version-testing.kicad_pcb
   version_scheme: semver

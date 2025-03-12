@@ -12,3 +12,5 @@ text item on the board that matches the current version to the new version.
 
 I like to use this to auto increment the version number on my PCBs on the silkscreen
 layer.
+
+You'll need to `pip install kicad-python` before using it.

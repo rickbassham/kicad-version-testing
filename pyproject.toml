@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "version-testing"
+version = "0.1.0"
+description = ""
+authors = ["Rick Bassham <brodrick.bassham@gmail.com>"]
+readme = "README.md"
+packages = [{ include = "version_testing" }]
+
+[tool.poetry.dependencies]
+python = "==3.9.21"
+kicad-python = "^0.2.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
